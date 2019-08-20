@@ -128,7 +128,7 @@
     padding: 0;
   }
   .masthead h1 {
-    font-size: 6.5rem;
+    font-size: 4rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
   }
@@ -271,6 +271,17 @@
 
 .contact-section .social a:active {
   color: #fff;
+}
+
+.contact-section p {
+  color: red;
+}
+
+.linkedin {
+  font-size: 5rem;
+  font-family: 'Varela Round';
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
 }
 
 body {
