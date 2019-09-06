@@ -173,6 +173,10 @@
 }
 
 .about-section p {
+  margin-bottom: 1rem;
+}
+
+.about-section .skills {
   margin-bottom: 5rem;
 }
 
@@ -205,6 +209,14 @@
     border-width: .25rem;
     width: 30%;
   }
+}
+
+.projects-section h2 {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
 }
 
 .signup-section {
